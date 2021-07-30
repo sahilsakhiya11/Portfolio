@@ -79,11 +79,11 @@ const Resume = () => {
                         <div className='resume_card_title'><h5>Full Stack Developer - Capstone Project</h5></div>
                         <div className='resume_card_year'>Witlinks Corporation - Brampton (May'21 - Present)</div>
                         <hr/>
-                        <div className='resume_card_title'><h5>Full Stack Developer - Intern</h5></div>
-                        <div className='resume_card_year'>Excelsior Technologies - Ahmedabad (Apr'19 - Jul'19)</div>
+                        <div className='resume_card_title'><h5>Full Stack Developer</h5></div>
+                        <div className='resume_card_year'>Excelsior Technologies - India (Aug'18 - Dec'20)</div>
                         <hr/>
                         <div className='resume_card_title'><h5>Full Stack Engineer - Intern</h5></div>
-                        <div className='resume_card_year'>Ignite Technologies - Ahmedabad (Jul'17 - Jun'18)</div>
+                        <div className='resume_card_year'>Ignite Technologies - India (Jul'17 - Jun'18)</div>
                         <hr/>
 
                     </div>
