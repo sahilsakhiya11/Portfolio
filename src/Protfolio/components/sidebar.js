@@ -9,7 +9,7 @@ import facebook from '../images/facebook.png'
 import max from '../images/se.jpg'
 import pin from '../images/pin.svg'
 import github from '../images/github.svg'
-import resume from '../resume.doc'
+import resume from '../sahilpatel_resume.doc'
 const SideBar = () => {
     var sidebarVariants = {
         initial: {

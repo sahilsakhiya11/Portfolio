@@ -65,7 +65,7 @@ const Resume = () => {
                         <div className='resume_card_title'><h5>Information Technology Solutions</h5></div>
                         <div className='resume_card_year'> Post Graduation Diploma (2020-2021)</div>
                         <p className='resume_card_description'>
-                            I've completed my Bachelor of Engineering in Information Technology back in India and now I am doing my Post Graduation in Humber College in Toronto,Ontario.
+                            I've completed my Bachelor of Engineering in Information Technology back in India and now I recently graduated from Post Graduation Program in Humber College in Toronto,Ontario.
                         </p>
                         <p>Percentage:- 84%</p>
 
@@ -77,7 +77,7 @@ const Resume = () => {
                     </div>
                     <div className="resume_card_body">
                         <div className='resume_card_title'><h5>Full Stack Developer - Capstone Project</h5></div>
-                        <div className='resume_card_year'>Witlinks Corporation - Brampton (May'21 - Present)</div>
+                        <div className='resume_card_year'>Witlinks Corporation - Brampton (Jan'21 - Present)</div>
                         <hr/>
                         <div className='resume_card_title'><h5>Full Stack Developer</h5></div>
                         <div className='resume_card_year'>Excelsior Technologies - India (Aug'18 - Dec'20)</div>
