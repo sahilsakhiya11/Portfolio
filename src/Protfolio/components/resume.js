@@ -76,14 +76,14 @@ const Resume = () => {
                         Experience
                     </div>
                     <div className="resume_card_body">
-                        <div className='resume_card_title'><h5>Full Stack Developer - Capstone Project</h5></div>
-                        <div className='resume_card_year'>Witlinks Corporation - Brampton (Jan'21 - Present)</div>
+                        <div className='resume_card_title'><h5>Senior Web Developer</h5></div>
+                        <div className='resume_card_year'><a href="https://www.tvo.org/" target="_blank">TVO - Toronto (Oct'21 - Present)</a></div>
                         <hr/>
                         <div className='resume_card_title'><h5>Full Stack Developer</h5></div>
-                        <div className='resume_card_year'>Excelsior Technologies - India (Aug'18 - Dec'20)</div>
+                        <div className='resume_card_year'><a href="https://www.excelsiortechnologies.com/" target="_blank">Excelsior Technologies - India (Aug'18 - Dec'20)</a></div>
                         <hr/>
                         <div className='resume_card_title'><h5>Full Stack Engineer - Intern</h5></div>
-                        <div className='resume_card_year'>Ignite Technologies - India (Jul'17 - Jun'18)</div>
+                        <div className='resume_card_year'><a href="http://ignite.silveroakuni.ac.in/" target="_blank">Ignite Technologies - India (Jul'17 - Jun'18)</a></div>
                         <hr/>
 
                     </div>
